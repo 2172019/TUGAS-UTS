@@ -1,0 +1,43 @@
+
+.center{
+    text-align: center;
+}
+.table{
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.table2{
+    margin: 0 auto;
+    border: 0px solid;
+}
+.pic:hover{
+    opacity: 50% ;
+    color: gray;
+}
+.buletan {
+    background-color: #4CAF50;
+    display: inline-block;
+    height: 110px;
+    width: 110px;
+    border-radius: 100%;
+  }
+.buletan {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.fontfixed{
+    font-size: 20px;
+}
+.kiri{
+    text-align: left;
+}
+h1.font{
+    font-size: 70px;
+    text-align: left;
+}
+p{
+    text-align: left;
+}
